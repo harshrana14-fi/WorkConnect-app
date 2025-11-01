@@ -1,4 +1,4 @@
-# WorkConnect - AI-Driven Workforce Platform
+# WorkConnect - AI-Driven Workforce Platform (APP)
 
 WorkConnect is a comprehensive mobile application that connects verified workers with real-time job opportunities, empowering India's informal workforce through AI-driven matching and skill development.
 
